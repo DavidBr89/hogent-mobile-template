@@ -1,9 +1,13 @@
 {
-  "name": "@hogent-mobile/expo-template",
+  "name": "@dabr89/expo-template",
   "version": "1.0.0",
   "description": "Een expo template dat kan gebruikt worden als start project met alle dependencies die nodig zijn om navigatie, redux, formik en yup mogelijk te maken",
   "author": "David Breckx",
   "main": "node_modules/expo/AppEntry.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidBr89/hogent-mobile-template"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
