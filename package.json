@@ -1,5 +1,5 @@
 {
-  "name": "@dabr89/expo-template",
+  "name": "@hogent-mobile/expo-template",
   "version": "1.0.0",
   "description": "Een expo template dat kan gebruikt worden als start project met alle dependencies die nodig zijn om navigatie, redux, formik en yup mogelijk te maken",
   "author": "David Breckx",
